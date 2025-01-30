@@ -1,0 +1,15 @@
+bot:
+  token: "5950399884:AAESxHb8lK2EQ65s6bsGxllqEzNQvHHNtr4"
+  enable_multilanguage: true
+  default_language: "ru"
+  allowed_languages:
+    - "ru"
+    - "en"
+
+database:
+  host: "localhost"
+  port: 5432
+  user: "laravel"
+  password: "password"
+  dbname: "telegram"
+  sslmode: "disable"
