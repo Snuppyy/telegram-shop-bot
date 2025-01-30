@@ -1,5 +1,5 @@
 bot:
-  token: "5950399884:AAESxHb8lK2EQ65s6bsGxllqEzNQvHHNtr4"
+  token: "BOT_TOKEN"
   enable_multilanguage: true
   default_language: "ru"
   allowed_languages:
